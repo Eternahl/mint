@@ -72,7 +72,7 @@ suite "Window.url" {
 }
 
 suite "Window.href" {
-  test "returns the current url as string" {
+  test "returns the current url as string " {
     try {
       Window.navigate("/")
 
